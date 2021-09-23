@@ -4,3 +4,6 @@ normal text
 in python 2 we learn how git works, not just click patterns. 
 # why we use command patterns
 turn brains to mush. 
+#wednesday night
+practicing a clone 
+
