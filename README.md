@@ -6,3 +6,8 @@ in python 2 we learn how git works, not just click patterns.
 turn brains to mush. 
 #wednesday night
 practicing a fetch 
+
+## Great quote 
+Monty Python Quote. 
+  Come and see the violence.
+  Help! I'm being repressed
