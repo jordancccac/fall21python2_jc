@@ -8,6 +8,6 @@ turn brains to mush.
 practicing a fetch 
 
 ## Great quote 
-Monty Python Quote. \n
+Monty Python Quote. 
   Come and see the violence.
   Help! I'm being repressed
