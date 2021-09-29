@@ -15,12 +15,14 @@
 
     The project utilizes JSON encoded search criteria, partially defined by the user, allowing
     him/her to search for specific data points, namely, school districts. 
-    The output displays the school disctrict(s) relative lead levels over the 6 year period. 
+    The output, which includes JSON-encoded results, displays the school disctrict(s) relative lead levels over the 6 year period. 
     
     The ultimate goal is to analyze the change in lead levels to identify high-risk areas
     and help make more informed public health decisions. 
 
-##### Current Goal: 
+## Part C: Data Link
+
+   The original data set can be found at: https://data.wprdc.org/dataset/allegheny-county-elevated-blood-lead-level-rates/resource/e99fa58e-f09a-4aa0-90a9-7996a0bca147?inner_span=True
     
     
    
