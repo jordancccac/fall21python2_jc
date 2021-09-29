@@ -32,4 +32,8 @@
    2. To properly structure the JSON content, enter the search criteria as key-value pairs in curly braces.
    The key is "SchoolDistrict" and the corresponding value is your school district of choice. Both are enclosed
    in double quotations to denote a string. 
-   For example: { "SchoolDistrict" : "Avonworth" }
+For example: { "SchoolDistrict" : "Avonworth" }
+
+#### Part E: Program Diagram
+![Lead Levels Program Diagram.io](img/Lead_Dia.jpg "Lead Program Diagram")
+
