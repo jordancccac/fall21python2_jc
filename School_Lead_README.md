@@ -22,7 +22,7 @@
 
 ## Part C: Data Link
 
-   The original data set can be found at: https://data.wprdc.org/dataset/allegheny-county-elevated-blood-lead-level-rates/resource/e99fa58e-f09a-4aa0-90a9-7996a0bca147?inner_span=True
+   The original data set can be found at: (https://data.wprdc.org/dataset/allegheny-county-elevated-blood-lead-level-rates/resource/e99fa58e-f09a-4aa0-90a9-7996a0bca147?inner_span=True)
     
     
    
