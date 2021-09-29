@@ -15,16 +15,17 @@
 
     The project utilizes JSON encoded search criteria, partially defined by the user, allowing
     him/her to search for specific data points, namely, school districts. 
-    The output, which includes JSON-encoded results, displays the school disctrict(s) relative lead levels over the 6 year period. 
+    The output, which includes JSON-encoded results, displays the students' lead levels over the 6 year period. 
     
-    The ultimate goal is to analyze the change in lead levels to identify high-risk areas
-    and help make more informed public health decisions. 
+    The ultimate goal is to analyze the change in lead levels to identify high-risk areas, as well as safe areas,
+    and help make more informed public health decisions and share best practices.  
 
 ## Part C: Data Link
 
    The original data set can be found at: (https://data.wprdc.org/dataset/allegheny-county-elevated-blood-lead-level-rates/resource/e99fa58e-f09a-4aa0-90a9-7996a0bca147?inner_span=True)
     
-    
+## Part D: Creating a JSON File
+
+   1. A file with the .json extension can be created in a Python environment (like Jupyter notebooks or the Python shell). 
+   It can also be created in the Git Bash command line text editor: vim
    
-    Testing the code blocks.
-    Hope it works! 
