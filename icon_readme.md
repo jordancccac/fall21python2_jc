@@ -25,5 +25,7 @@
       
       The program's creator's icon is below: 
       
-      
+    
+  ![Icon Project Image](img/icon.JPG "Sail Boat Icon")
+
       
