@@ -28,5 +28,4 @@
       
     
   ![Icon Project Image.io](img/icon.JPG "Sail Boat Icon")
-
       
