@@ -35,5 +35,5 @@
 For example: { "SchoolDistrict" : "Avonworth" }
 
 #### Part E: Program Diagram
-![Lead Levels Program Diagram.io](img/Lead_Dia.jpg "Lead Program Diagram")
+![Lead Levels Program Diagram.io](School_Lead_Levels_Project/Lead_Dia.jpg "Lead Program Diagram")
 
