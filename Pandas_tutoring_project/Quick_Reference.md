@@ -22,7 +22,7 @@
 ### Indexing rows and columns, using iloc and loc 
     •	Index rows with default 0-based integer labels using iloc 
     
-![Index with iloc.io](/Pandas_tutoring_project/images/Picture4.jpg "iloc indexing)
+![Index with iloc.io](/Pandas_tutoring_project/images/Picture4.jpg "iloc indexing")
 
 
     •	Index rows with custom integer labels that exceed the length of the axis using loc
