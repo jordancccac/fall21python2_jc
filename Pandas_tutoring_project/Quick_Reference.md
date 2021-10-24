@@ -1,8 +1,11 @@
+
 # Pandas Tutoring Documentation Reference 
 
 ## Data Structures 
 
     1.	Series: 1-demensional array of tabular data
+    ![Series Image.io](/Pandas_tutoring_project/Picture1.jpg "Series image")
+
  
     2.	Data Frames: 2-demensional array. a collection of Series 
                 a.Can be created in the dataframe statement or an object can be passed as an argument
