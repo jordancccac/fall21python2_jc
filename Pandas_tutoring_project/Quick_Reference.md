@@ -12,7 +12,7 @@
 
 ## Indexing
     •   Indices can be 0-based integers, or customized strings, integers, and floats 
-    •	If no index is assigned, 0-based integers are default 
+    •If no index is assigned, 0-based integers are default 
  
 ### Indexing rows and columns, using iloc and loc 
     •	Index rows with default 0-based integer labels using iloc 
