@@ -8,7 +8,7 @@
                 a.Can be created in the dataframe statement or an object can be passed as an argument
                 b.It can take many forms, including a dictionary, list of dictionaries, and a Numpy ndarray, 
  
-    See further introduction at: (https://pandas.pydata.org/docs/user_guide/dsintro.html)
+ See further introduction at: (https://pandas.pydata.org/docs/user_guide/dsintro.html)
 
 ## Indexing
     •   Indices can be 0-based integers, or customized strings, integers, and floats 
