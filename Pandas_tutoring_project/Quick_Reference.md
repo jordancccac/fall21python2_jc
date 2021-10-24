@@ -9,8 +9,9 @@
 ![Series Image.io](/Pandas_tutoring_project/images/Picture1.jpg "Series image")
 
  
-    2.	Data Frames: 2-demensional array. a collection of Series 
+    2.	Data Frames: 2-demensional array; can be considered a collection of Series 
                 a.Can be created in the dataframe statement or an object can be passed as an argument
+                
                 b.It can take many forms, including a dictionary, list of dictionaries, and a Numpy ndarray, 
  
  See further introduction at: (https://pandas.pydata.org/docs/user_guide/dsintro.html)
@@ -19,7 +20,8 @@
  ![Data Frame Image.io](/Pandas_tutoring_project/images/Picture2.jpg "Data Frame Image")
  
 ## Indexing
-    •   Indices can be 0-based integers, or customized strings, integers, and floats using the keyword argument "index" 
+    •   Indices can be 0-based integers, or customized strings, integers, and floats using the keyword argument "index"
+    
     •   If no index is assigned, 0-based integers are default
     
     •   Example code:
@@ -41,6 +43,7 @@
 
 
     •	Index rows with string labels using loc
+    
     •	Index integer or string column labels using the structure: dataframe[int or ‘string’]
     
  See more on indexing: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
