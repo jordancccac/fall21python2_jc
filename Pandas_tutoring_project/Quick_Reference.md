@@ -21,10 +21,12 @@
 
 ### Indexing rows and columns, using iloc and loc 
     •	Index rows with default 0-based integer labels using iloc 
+    
 ![iloc.io](/Pandas_tutoring_project/Picture4.jpg "iloc indexing") 
-    •	Index rows with custom integer labels that exceed the length of the axis using loc
-![loc.io](/Pandas_tutoring_project/Picture5.jpg "loc indexing")
 
+    •	Index rows with custom integer labels that exceed the length of the axis using loc
+    
+![loc.io](/Pandas_tutoring_project/Picture5.jpg "loc indexing")
 
     •	Index rows with string labels using loc
     •	Index integer or string column labels using the structure: dataframe[int or ‘string’]
