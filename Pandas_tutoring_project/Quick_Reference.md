@@ -5,7 +5,7 @@
 
     1.	Series: 1-demensional array of tabular data
     
-        •   Example code:
+            •   Example code:
 ![Series Image.io](/Pandas_tutoring_project/images/Picture1.jpg "Series image")
 
  
