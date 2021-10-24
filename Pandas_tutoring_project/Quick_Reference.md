@@ -4,7 +4,7 @@
 ## Data Structures 
 
     1.	Series: 1-demensional array of tabular data
-    ![Series Image.io](/Pandas_tutoring_project/Picture1.jpg "Series image")
+![Series Image.io](/Pandas_tutoring_project/Picture1.jpg "Series image")
 
  
     2.	Data Frames: 2-demensional array. a collection of Series 
