@@ -12,7 +12,8 @@
                 b.It can take many forms, including a dictionary, list of dictionaries, and a Numpy ndarray, 
  
  See further introduction at: (https://pandas.pydata.org/docs/user_guide/dsintro.html)
-
+ ![Data Frame Image.io](/Pandas_tutoring_project/images/Picture2.jpg "Data Frame Image")
+ 
 ## Indexing
     •   Indices can be 0-based integers, or customized strings, integers, and floats 
     •   If no index is assigned, 0-based integers are default 
@@ -22,7 +23,8 @@
  
     •	Index rows with custom integer labels that exceed the length of the axis using loc
 
- 
+![Customizing Indicies Image.io"](/Pandas_tutoring_project/images/Picture3.jpg "Custom Indexing")
+
     •	Index rows with string labels using loc
     •	Index integer or string column labels using the structure: dataframe[int or ‘string’]
     
