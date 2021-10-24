@@ -38,7 +38,8 @@
  
 
     •	Change the value of a single cell using the structure: dataframe.at[row, column]=value 
- 
+![Value Changing.io](/Pandas_tutoring_project/images/Picture7.jpg "Value Changing")
+
 
 ## I/O Processing 
     •	Read a json file into a dataframe using: object=pd.read_json(file_name.json)
