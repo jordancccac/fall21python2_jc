@@ -5,8 +5,8 @@
     1.	Series: 1-demensional array of tabular data
  
     2.	Data Frames: 2-demensional array. a collection of Series 
-        a.	Can be created in the dataframe statement or an object can be passed as an argument
-        b.	It can take many forms, including a dictionary, list of dictionaries, and a Numpy ndarray, 
+            a.	Can be created in the dataframe statement or an object can be passed as an argument
+            b.	It can take many forms, including a dictionary, list of dictionaries, and a Numpy ndarray, 
  
 See further introduction at: https://pandas.pydata.org/docs/user_guide/dsintro.html
 
