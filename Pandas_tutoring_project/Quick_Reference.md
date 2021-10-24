@@ -1,5 +1,5 @@
 
-# Pandas Tutoring Documentation Reference 
+# Pandas Tutoring Documentation 
 
 ## Data Structures 
 
