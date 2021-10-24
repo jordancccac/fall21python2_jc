@@ -16,8 +16,9 @@
  
 ## Indexing
     •   Indices can be 0-based integers, or customized strings, integers, and floats using the keyword argument "index" 
-    •   If no index is assigned, 0-based integers are default 
-Example code:
+    •   If no index is assigned, 0-based integers are default
+    
+    •   Example code:
 ![Customizing Indicies Image.io](/Pandas_tutoring_project/images/Picture3.jpg "Custom Indexing")
 
 ### Indexing rows and columns, using iloc and loc 
