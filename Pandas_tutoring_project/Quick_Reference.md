@@ -23,16 +23,16 @@
     •	Index rows with string labels using loc
     •	Index integer or string column labels using the structure: dataframe[int or ‘string’]
     
-    See more on indexing: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
+ See more on indexing: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
 
-Manipulation 
-o	Add a column to a data frame in a specific location using the structure: dataframe.insert(position, column name, [value 1, value 2, etc.])
+## Manipulation 
+    •	Add a column to a data frame in a specific location using the structure: dataframe.insert(position, column name, [value 1, value 2, etc.])
  
 
-•	Change the value of a single cell using the structure: dataframe.at[row, column]=value 
+    •	Change the value of a single cell using the structure: dataframe.at[row, column]=value 
  
 
-I/O
-•	Read a json file into a dataframe using: object=pd.read_json(file_name.json)
-
+## I/O Processing 
+    •	Read a json file into a dataframe using: object=pd.read_json(file_name.json)
+    
 See more on I/O processing in Pandas: https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#excel-files
