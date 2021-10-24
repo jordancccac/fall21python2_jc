@@ -26,6 +26,7 @@
 
     •	Index rows with custom integer labels that exceed the length of the axis using loc
     
+![Index with loc.io](/Pandas_tutoring_project/images/Picture5.jpg "loc indexing")
 
 
     •	Index rows with string labels using loc
