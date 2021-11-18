@@ -4,7 +4,7 @@
 
 ### Part B: Reserach Questions
 
-### Part C: Program Fucntionaliy and Purpose
+### Part C: Program Functionality and Purpose
 
 ### Part D: Data Link
 
