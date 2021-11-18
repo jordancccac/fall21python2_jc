@@ -1,10 +1,12 @@
 ## Crime Analytics Project
 
-### Part A: Reserach Question 
+### Part A: Background
 
-### Part B: API Description 
+### Part B: Reserach Questions
 
-### Part C: Program Description (put diagram) 
+### Part C: Program Fucntionaliy and Purpose
 
-### Part D: Results 
+### Part D: Data Link
+
+### Part EResults 
 
