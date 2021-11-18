@@ -1,4 +1,4 @@
-## Crime Analytics Project
+## Crime Analytics API Project
 
 ### Part A: Background
 
