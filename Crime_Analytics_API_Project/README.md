@@ -11,7 +11,7 @@
     This program aims to answer the following reserach questions:
       1. Were crime rates higher in the 6-month period before COVID than during the 6-month 
       period after COVID cases appeared and the UK lockdown began? 
-      2. If crime rates did drop, did the Police have/see more favorable outcomes for the crimes that did occur? 
+      2. If crime rates did drop, did the Police achieve/see more favorable outcomes for the crimes that did occur? 
       3. What (if any) change occured in the types of crimes that were being committed?  
 
 ### Part C: Program Functionality and Purpose
