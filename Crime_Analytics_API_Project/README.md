@@ -21,7 +21,9 @@
       1. The API is called using a particular police force, one of their neighborhoods, and a particular date. 
       2. A crime report for that location and date is returned. 
       3. The data is analyzed 
+      
 
+![Crime Analytics Diagram.io](/Crime_Analytics_API_Project/Crime_API_Diagram.jpg "Program Diagram")
 ### Part D: Data Link
 
 ### Part E: Results 
