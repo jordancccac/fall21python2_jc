@@ -1,21 +1,23 @@
 ## Crime Analytics API Project
 
 ### Part A: Background
-    This project utilizes crime and police data available on a public API, published by the "Single Online Home National Digital Team."  
-    Data is provided by various police forces and the Ministry of Justice. Comprehensive data is available from street crimes and outocmes, 
+    This project utilizes crime and police data available on a public API, published by
+    the "Single Online Home National Digital Team." Data is provided by various police forces
+    and the Ministry of Justice. Comprehensive data is available from street crimes and outocmes, 
     to police team members and police priorites and action plans 
 
 ### Part B: Reserach Questions
 
     This program aims to answer the following reserach questions:
-      1. Were crime rates higher in the 6-month period before COVID than during the 6-month period after COVID cases appeared and the UK lockdown began? 
+      1. Were crime rates higher in the 6-month period before COVID than during the 6-month 
+      period after COVID cases appeared and the UK lockdown began? 
       2. If crime rates did drop, did the Police have/see more favorable outcomes for the crimes that did occur? 
       3. What (if any) change occured in the types of crimes that were being committed?  
 
 ### Part C: Program Functionality and Purpose
     
-    There are 2 versions of this analytics program. 1 requires data/user choices to be hard-coded in, and the other provides a user-interface,
-    allowing the user to enter dates/data choices straight-forwardly, being designed for non-technical users.
+    There are 2 versions of this analytics program. 1 requires data/user choices to be hard-coded in,
+    and the other provides a user-interface,allowing the user to enter dates/data choices straight-forwardly, being designed for non-technical users.
     
     Both programs adhere to the same structure: 
       1. The API is called using a particular police force, one of their neighborhoods, and a particular date. 
