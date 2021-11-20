@@ -22,7 +22,8 @@
     Both programs adhere to the same overarching structure: 
       1. The API is called using a particular police force, one of their neighborhoods, and particular dates. 
       2. A crime report for that location and date is returned. 
-      3. The data is analyzed and can measure the crime rate, and other metrics including outcomes and types of crimes. 
+      3. The data is analyzed to measure the crime rate and other metrics including outcomes and types of crimes.
+      4. The results are visualized in graphs. 
       
 
 ![Crime Analytics Diagram.io](/Crime_Analytics_API_Project/Crime_API_Diagram.jpg "Program Diagram")
