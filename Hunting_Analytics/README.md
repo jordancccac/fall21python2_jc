@@ -1,6 +1,7 @@
 ## Hunting Analytics Final Project 
 
-### Research Questions 
+### Research Questions
+
   This guiding research questions of this project were:
     1. What (if any) is the relationship between the number of hunting accidents and the number of hunting licenses, permits, tags and stamps acquired annually (i.e. this may
     suggest the effectiveness or ineffectiveness of hunter education/safety programs)?
