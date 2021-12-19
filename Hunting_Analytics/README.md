@@ -10,8 +10,8 @@
      2. What is the average accident rate of hunting events over the period in question? 
      This may suggest the inherent risk or danger of hunting.
 
-![Hunting Graph.io](/Hunting_Analytics/Hunting_results.jpg "Scatter Plot"
+![Hunting Graph.io](/Hunting_Analytics/Hunting_results.jpg "Scatter Plot")
 
 
-![Hunting Graph2.io](/Hunting_Analytics/Hunting_results.jpg "Scatter Plot"
+![Hunting Graph2.io](/Hunting_Analytics/Hunting_results.jpg "Scatter Plot")
 
