@@ -3,7 +3,7 @@
 ### Part A: Background
     This project utilizes crime and police data available on a public API, published by
     the "Single Online Home National Digital Team." Data is provided by various police forces
-    and the Ministry of Justice. Comprehensive data is available from street crimes and outocmes, 
+    and the Ministry of Justice. Comprehensive data is available from street crimes and outcomes, 
     to police team members and police priorites and action plans. 
 
 ### Part B: Research Questions
