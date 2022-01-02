@@ -9,13 +9,13 @@
 
 ### Research Questions
 
-    The guiding research questions of this project were:
+    The guiding research questions of this project are:
     
      1. What (if any) is the relationship between the number of hunting accidents and the number of hunting licenses, permits, tags and
-     stamps acquired annually (i.e. this may suggest the effectiveness or ineffectiveness of hunter education/safety programs)?
+     stamps acquired annually (i.e. this may suggest the effectiveness of a state's hunting safety rules and regulations)?
     
      2. What is the average accident rate of hunting events over the period in question? 
-     This may suggest the inherent risk or danger of hunting.
+     This may help quantify the inherent risk of hunting.
 
 ### Program Design and Functionality 
 
