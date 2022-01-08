@@ -16,6 +16,12 @@
     
      2. What is the average accident rate of hunting events over the period in question? 
      This may help quantify the inherent risk of hunting.
+     
+     3. Find the states with the highest and lowest numbers of accidents, and then compare their safety rules and regulations
+     (after controlling for the number of hunting events).
+     
+     4. Miscellaneous Analytics: other factors can be analyzed, including casualty rate, animal hunted, and tree-stand involvement,
+     to help illuminate the safety-status of hunting. 
 
 ### Program Design and Functionality 
 
