@@ -34,6 +34,4 @@
 ![Hunting Graph.io](/Hunting_Analytics/Hunting_results.jpg "Scatter Plot")
 
 
-![Hunting Graph2.io](/Hunting_Analytics/Hunting_results.jpg "Scatter Plot")
-
 ### Conclusion 
