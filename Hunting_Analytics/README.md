@@ -15,7 +15,6 @@
      stamps acquired annually (i.e. this may suggest the effectiveness of a state's hunting safety rules and regulations)?
     
      2. What is the average accident rate of hunting events over the period in question? 
-     This may help quantify the inherent risk of hunting.
      
      3. Miscellaneous Analytics: other factors can be analyzed, including casualty rate, animal hunted, and tree-stand involvement,
      to help illuminate the safety-status of hunting. 
