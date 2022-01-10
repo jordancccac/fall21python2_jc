@@ -16,8 +16,8 @@
     
      2. What is the average accident rate of hunting events over the period in question? 
      
-     3. Miscellaneous Analytics: other factors can be analyzed, including casualty rate, animal hunted, and tree-stand involvement,
-     to help illuminate the safety-status of hunting. 
+     3. Accident Details: other factors are analyzed, including casualty rate, animals hunted, and tree-stand involvement,
+     to help illuminate the safety-status of hunting and trends of accidents. 
      
      Future Research: Find the states with the highest and lowest accident rates, and then compare their safety rules and regulations.
      
