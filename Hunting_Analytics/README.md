@@ -38,3 +38,5 @@ Hunting license data: https://www.fws.gov/wsfrprograms/Subpages/LicenseInfo/Hunt
 
 
 ### Conclusion 
+    1. There appears to be no reliable correlation between an increase in hunting events and an increase in reported accidents. 
+    2. The accident rates for all tested states are far less one, suggesting hunting is safe and very low risk. 
