@@ -2,7 +2,9 @@
 
 ### Background 
     
-    This program aims to shed light on the safety of hunting, as well as the nature of hunting accidents. 
+    This program aims to shed light on the safety of hunting, as well as the nature of hunting accidents 
+    nationwide and by state between the years of 2010-2021.
+    
     It draws on two sources of data: hunting accidents nationwide and the number of licenses, tags, permits 
     and stamps acquired each year. While the data is publicly available, the national incident database 
     appears to be missing pieces of data for some states/years. 
@@ -26,7 +28,8 @@
 
 
 ### Data Link
-
+Hunting accident database: https://www.ihea-usa.org/hunter-incident-database/
+Hunting license data: https://www.fws.gov/wsfrprograms/Subpages/LicenseInfo/Hunting.htm
 
 ### Results Sample
 
