@@ -3,7 +3,7 @@
 ### Background 
     
     This program aims to shed light on the safety of hunting, as well as the nature of hunting accidents 
-    by state between the years of 2010-2021.
+    nationwide and by state between the years of 2010-2021.
     
     It draws on two sources of data: hunting accidents nationwide and the number of licenses, tags, permits 
     and stamps acquired each year. While the data is publicly available, the national incident database 
