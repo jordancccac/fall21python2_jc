@@ -4,8 +4,8 @@
     
     This program aims to shed light on the safety of hunting, as well as the nature of hunting accidents. 
     It draws on two sources of data: hunting accidents nationwide and the number of licenses, tags, permits 
-    and stamps acquired each year; this may suggests the popularity of hunting. While the data is
-    publicly available, the national incident database appears to be missing pieces of data for some states/years. 
+    and stamps acquired each year. While the data is publicly available, the national incident database 
+    appears to be missing pieces of data for some states/years. 
 
 ### Research Questions
 
