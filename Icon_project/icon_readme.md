@@ -2,7 +2,7 @@
 
 ## Part A: Description
 
-      For this project, python will transform sequences of data into a simple image. 
+      For this project, python will transform sequences of data into an image. 
       
 ## Part B: Functionality 
 
