@@ -1,6 +1,6 @@
 ## Hunting Safety Analytics Final Project 
 
-### Background 
+### Part A: Background 
     
     This program aims to shed light on the safety of hunting, as well as the nature of hunting accidents 
     nationwide and by state between the years of 2010-2021.
@@ -9,7 +9,8 @@
     and stamps acquired each year. While the data is publicly available, the national incident database 
     appears to be missing pieces of data for some states/years. 
 
-### Research Questions
+
+### Part B: Research Questions
 
     The guiding research questions of this project are:
     
@@ -24,16 +25,20 @@ stamps acquired annually (i.e. this may suggest the effectiveness of a state's h
      Future Research: Find the states with the highest and lowest accident rates, and then compare their safety rules and regulations.
      
 
-### Program Design and Functionality 
+### Part C: Program Design and Functionality 
 
 ![Program Structure.io](/Hunting_Analytics/hunting_diagram.jpg "Program Structure")
 
-### Data Link
+
+
+### Part D: Data Link
 Hunting accident database: https://www.ihea-usa.org/hunter-incident-database/
 
 Hunting license data: https://www.fws.gov/wsfrprograms/Subpages/LicenseInfo/Hunting.htm
 
-### Results Sample
+
+
+### Part E: Results Sample
 
 ![Hunting Graph.io](/Hunting_Analytics/Hunting_results.jpg "Scatter Plot")
 
@@ -43,11 +48,17 @@ Hunting license data: https://www.fws.gov/wsfrprograms/Subpages/LicenseInfo/Hunt
 ![Analytics Sample.io](/Hunting_Analytics/Analytics_sample.JPG "Analytics Sample")
 
 
-### Conclusion 
+
+
+
+### Part F: Conclusion 
     1. For most states, there appears to be no reliable correlation between an increase in hunting events 
     and an increase in reported accidents, suggesting sufficient safety regulations are in place.
     2. The accident rates for all tested states are far less one, suggesting hunting is safe and very low risk.
     
-### Next Steps 
+    
+    
+    
+### Part G: Next Steps 
     Compare the safety rules and regulations of states with a positive correlation with those of no correlation. 
     Find the states with the highest and lowest accident rates, and then compare their safety rules and regulations.
