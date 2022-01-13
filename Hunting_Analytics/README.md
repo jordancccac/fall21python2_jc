@@ -38,6 +38,11 @@ Hunting license data: https://www.fws.gov/wsfrprograms/Subpages/LicenseInfo/Hunt
 ![Hunting Graph.io](/Hunting_Analytics/Hunting_results.jpg "Scatter Plot")
 
 
+
+
+![Analytics Sample.io](/Hunting_Analytics/Analytics_sample.JPG "Analytics Sample")
+
+
 ### Conclusion 
     1. For most states, there appears to be no reliable correlation between an increase in hunting events 
     and an increase in reported accidents, suggesting sufficient safety regulations are in place.
