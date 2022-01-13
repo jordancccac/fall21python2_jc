@@ -34,9 +34,10 @@
    in double quotations to denote a string. 
 For example: { "SchoolDistrict" : "Avonworth" }
 
-#### Part E: Program Diagram
+### Part E: Program Diagram
 ![Lead Levels Program Diagram.io](/School_Lead_Levels_Project/Lead_Dia.jpg "Lead Program Diagram")
 
 
-#### Part F: Results Sample
-![graph results sample.io](/School_Lead_Levels_Project/Student_lead.jpg "Results Sample")
+
+### Part F: Results Sample
+![graph results sample.io](/School_Lead_Levels_Project/Student_lead.JPG "Results Sample")
