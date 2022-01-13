@@ -39,4 +39,4 @@ For example: { "SchoolDistrict" : "Avonworth" }
 
 
 #### Part F: Results Sample
-![graph results sample.io](/School_Lead_Levels_Project/Student_lead.jpg "Results Sample")
+![graph results sample.io](School_Lead_Levels_Project/Student_lead.jpg "Results Sample")
