@@ -27,6 +27,12 @@ stamps acquired annually (i.e. this may suggest the effectiveness of a state's h
 
 ### Part C: Program Design and Functionality 
 
+    1. The program illustrates if there is a relationship between hunting events and accidents in individual states. 
+    2. The program calculates the rate of hunting accidents for individual states. 
+    3. The program analyzes accident reports for a wide variety of data points (characteristics 
+    of hunting accidents: visibility, casualty-status, animal being hunting, topography, etc.) and delivers
+    the analytics of said data point nationwide. 
+
 ![Program Structure.io](/Hunting_Analytics/hunting_diagram.jpg "Program Structure")
 
 
